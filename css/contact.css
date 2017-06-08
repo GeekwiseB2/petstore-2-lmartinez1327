@@ -1,0 +1,11 @@
+iframe {
+  margin-top: 5px;
+  width:90%;
+  height: 325px;
+}
+
+/*Table Styles*/
+
+.table-heading {
+  font-weight: bold;
+}
